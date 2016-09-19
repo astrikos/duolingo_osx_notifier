@@ -13,3 +13,6 @@ In order to run this tool you should clone this repo and run:
 This example will read the my_language_file and give you a notification like the one below every one hour (3600 seconds).
 
 ![Alt](/notification.jpg "Notification")
+
+## Notes
+Make sure you have allowed python to send notifications through MacOSX Notification Center. You can check by going to System Preferences->Notifications. Preferable alert style for now is Banners.
